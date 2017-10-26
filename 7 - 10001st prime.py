@@ -6,8 +6,6 @@ def isprime(x):
 
 prime = 2
 count = 1
-print( isprime(3) )
-
 
 while count != 10001:
     i = prime + 1
