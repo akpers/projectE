@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 25 14:09:45 2017
-
-@author: a_konev
-"""
-
 def isPalindrome(x):
           
     if x < 0:
