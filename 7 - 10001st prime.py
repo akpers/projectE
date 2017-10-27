@@ -15,7 +15,6 @@ while count != 10001:
     while not isprime(i):
         i += 1
     prime = i
-    print (count, prime)
     count += 1
 
 print (prime)
