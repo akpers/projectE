@@ -26,8 +26,8 @@ def isPalindrome(x):
         
 factor_palindrome = []
 
-for i in range (100, 999):
-    for j in range (100, 999):
+for i in range (100, 1000):
+    for j in range (100, 1000):
         if isPalindrome(i * j):
             factor_palindrome.append(i * j)
 
