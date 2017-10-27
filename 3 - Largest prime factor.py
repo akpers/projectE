@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 25 13:22:10 2017
-
-@author: a_konev
-"""
-
 x = 600851475143 
 
 primes = [1]
