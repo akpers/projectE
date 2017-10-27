@@ -10,6 +10,7 @@ def primes(x):
             i += 1
            
     return result
+# end def primes
 
 num = 20
 result = 1
