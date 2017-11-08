@@ -6,4 +6,4 @@ How many such routes are there through a 20×20 grid?
 """
 
 #https://en.wikipedia.org/wiki/Binomial_theorem
-    
+# (40! / 20! * 20!) = 137846528820
