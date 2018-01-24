@@ -16,12 +16,12 @@ def isprime(x):
 prime = 2
 prime_sum = 0
 
-while prime < 10:
+while prime < 2000000:
     prime_sum += prime
     i = prime + 1
     while not isprime(i):
         i += 1
     prime = i
-    print( prime, prime_sum )
+    #print( prime, prime_sum )
     
 print ( prime_sum )
